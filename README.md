@@ -62,6 +62,12 @@ git push origin teste
 ~~~
 git checkout master
 
+git merge teste
+
+git add .
+
+git commit -m "Merge branch teste"
+
 git push origin master
 ~~~
 
