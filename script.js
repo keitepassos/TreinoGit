@@ -1,3 +1,3 @@
 function clicar(){
-    alert('Clicou no botão... teste 2')
+    alert('Clicou no botão...ALTERADO!!!!!!!!!!!!')
 }
